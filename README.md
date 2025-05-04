@@ -25,8 +25,11 @@ Kolective is a cutting-edge Web3 platform designed to help users navigate the wo
 
 ## 🌐 Get Started
 1️⃣ **Connect Wallet** – Seamlessly integrate your cryptocurrency wallet.
+
 2️⃣ **Fill Questionnaire** – Help AI tailor recommendations for you.
+
 3️⃣ **Explore KOLs** – View recommended traders based on your risk profile.
+
 4️⃣ **Follow & Auto Trade** – Allocate Pharos tokens and automate your trades.
 
 ## Deployed Contracts
@@ -52,7 +55,11 @@ Kolective is a cutting-edge Web3 platform designed to help users navigate the wo
 ## Repositories
 Here are the links of all repositories:
 **Kolective Web:** [https://github.com/kolective/web](https://github.com/kolective/web)
+
 **Kolective Web:** [https://github.com/kolective/agent](https://github.com/kolective/agent)
+
 **Kolective Backend:** [https://github.com/kolective/backend](https://github.com/kolective/backend)
+
 **Kolective Contract:** [https://github.com/kolective/contract](https://github.com/kolective/contract)
+
 **Kolective Subgraph:** [https://github.com/kolective/subgraph](https://github.com/kolective/subgraph)
